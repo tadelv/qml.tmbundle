@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>ivq@threevyyn-pbqr.pbz</string>
+	<key>contactName</key>
+	<string>Vid Tadel</string>
+	<key>description</key>
+	<string>Bundle for Quick Markup Language</string>
+	<key>name</key>
+	<string>QML</string>
+	<key>uuid</key>
+	<string>FE08ED6F-D62A-400E-9E1B-8073A1D6B494</string>
+</dict>
+</plist>
